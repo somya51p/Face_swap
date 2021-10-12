@@ -1,8 +1,10 @@
-pathlib==1.0.1
-scandir==1.6
+pathlib
+scandir
 h5py
 opencv-python
 scikit-image
-dlib==19.9.0
+dlib
 face_recognition
 tqdm
+tensorflow
+keras

@@ -10,9 +10,12 @@ It is necessary to understand the scheme of advanced methods for high-quality fa
 This report is to how to train a swap-face algorithm. 
 
 The submission files are the three Ipython Notebooks: 
-	1. [Training data generation.ipynb](https://github.com/somya51p/Face_swap/blob/main/Face_swap/Training%20data%20generation.ipynb)
-	2. [Train.ipynb](https://github.com/somya51p/Face_swap/blob/main/Face_swap/train.ipynb)
-	3. [Prediction.ipynb](https://github.com/somya51p/Face_swap/blob/main/Face_swap/Prediction.ipynb)
+
+ 1.[Training data generation.ipynb](https://github.com/somya51p/Face_swap/blob/main/Face_swap/Training%20data%20generation.ipynb)
+
+ 2.[Train.ipynb](https://github.com/somya51p/Face_swap/blob/main/Face_swap/train.ipynb)
+
+ 3.[Prediction.ipynb](https://github.com/somya51p/Face_swap/blob/main/Face_swap/Prediction.ipynb)
 
 ## What is DeepFake??
 
@@ -60,4 +63,5 @@ cd deepfakes/weight
 ## Motivation
 
 With AI area, it becomes easy for anyone to fake video, pictures, and news. As someone smart said one day: "With great power comes great responsibility".
+
 
