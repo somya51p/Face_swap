@@ -6,7 +6,7 @@ Face swap algorithm for AI code implementation report
 ## Description
 Face swapping refers to the task of swapping faces between images or in a video, while maintaining the rest of the body and environment context. We present our on-going effort of constructing a large-scale benchmark for face forgery detection. 
 
-Our project referred from the above mentioned Research Paper combines the identity information from a source image  and attribute information from a target image to generate the final swapped face image.
+Our project combines the identity information from a source image  and attribute information from a target image to generate the final swapped face image.
 
 
 The main motivation behind this project is the continuous evolution of technology and its use in the field of Forensics, Entertainment and other such fields. We can help this in forgery detection by implementing an efficient algorithm that can generate a huge training and test dataset that can be used to develop DeepFake algorithms.
